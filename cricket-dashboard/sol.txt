@@ -1,0 +1,19 @@
+Cricket Game -> Teams -> Players
+
+Player:
+id
+runs
+balls
+4s
+6s
+
+Team:
+score
+out
+batting
+yetToBat
+wickets
+
+Game:
+overs
+playersPerTeam
